@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564762404087",
+    "project_id": "derivative-5498b",
+    "storage_bucket": "derivative-5498b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564762404087:android:e3b91f229d1dbcabc11ff2",
+        "android_client_info": {
+          "package_name": "com.example.polynomial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564762404087-6dr4essi28fa46nh16oo9508gb7m3ki8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARR2qq0JP8RtwVP-jkd0URzXSKp0DCpBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564762404087-6dr4essi28fa46nh16oo9508gb7m3ki8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
